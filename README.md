@@ -8,4 +8,4 @@
 
 Мова виконання: Java
 
-Посилання на відео - 
+Посилання на відео - https://youtu.be/mjTzhoeVrt8?si=9MQrjC9y-0Aqx8An
